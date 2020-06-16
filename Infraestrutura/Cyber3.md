@@ -19,7 +19,8 @@ O outro, é usar o comando “unzip -d” e redirecionar o arquivo para alguma p
 
 >Em ambos os casos, apos descompactar o arquivo, encontramos uma string bem maior do que os desafios anteriores. Com um pouco de estudo sobre codificacao de dados, chegamos a conclusao de que a string esta em `base64`. Um bom site para ajudar nisso e o https://gchq.github.io/CyberChef/ onde voce pode testar diversos tipos de encoding.
 
-Para fazer o decode da string, basta usar o comando “base64 -d“:
+Para fazer o decode da string, basta usar o comando `base64 -d`:
+
 `cat log.zip | zcat | base64 -d`
 ou
 ```
