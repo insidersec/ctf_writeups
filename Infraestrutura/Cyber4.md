@@ -24,6 +24,6 @@ Traduzindo o loop: enquanto `i` for menor ou igual a 100, inciando com `i=3` e s
 Ao executarmos o comando notamos que ele nos traz todos os outputs, dificultando a vizualização da nossa resposta…
 Podemos assim, usar o comando `grep` para filtrar as respostas.
 
-`for i in {1..100}; do ./try-me $i; done |grep -Ev “Maior|Menor“`
+`for i in {1..100}; do ./try-me $i; done |grep -Ev "Maior|Menor"`
 
 Em alguns instantes, temos a nossa flag.
