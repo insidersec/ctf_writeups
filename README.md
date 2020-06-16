@@ -79,9 +79,9 @@ Crypto
 ---
 ### Crypto1 - [d3let](https://github.com/GouveaHeitor)
 
-### Crypto2 - Allvesz
+### Crypto2 - [Allvesz](https://github.com/allvesz)
 
-### Crypto3 - Allvesz
+### Crypto3 - [Allvesz](https://github.com/allvesz)
 
 ### Crypto4 - [infinitybuzz](https://github.com/omatron)
 
@@ -104,9 +104,9 @@ Trivia
 
 ### Trivia8 - [infinitybuzz](https://github.com/omatron)
 
-### Trivia9 - Allvesz
+### Trivia9 - [Allvesz](https://github.com/allvesz)
 
-### Trivia10 - Allvesz
+### Trivia10 - [Allvesz](https://github.com/allvesz)
 
 ### Trivia11 - [infinitybuzz](https://github.com/omatron)
 
