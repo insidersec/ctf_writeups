@@ -10,12 +10,12 @@
 
 - [ ] [Crypto](#crypto)
 - [ ] [Forense](#forense)
-- [x] [Infraestrutura](https://github.com/insidersec/ctf_writeups/tree/master/Infraestrutura)
+- [x] [Infraestrutura](https://github.com/insidersec/ctf_writeups/blob/master/Infraestrutura/infraestrutura.md)
 - [ ] [Recon](#recon)
 - [ ] [Trivia](#trivia)
 - [ ] [Web](#web)
 
-- [x] [Making Off](https://github.com/insidersec/ctf_writeups/blob/develop/makingof/makingof.md)
+- [x] [Making Off](https://github.com/insidersec/ctf_writeups/blob/master/makingof/makingof.md)
 
 
 
