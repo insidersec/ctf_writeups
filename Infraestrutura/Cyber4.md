@@ -8,6 +8,7 @@ pass: [flag cyber3]
 
 Ao logarmos na máquina, encontramos um arquivo `try-me`, dando o comando `file` nele, descobrimos que é um binário, ou seja, um arquivo executável. 
 ```
+$ file try-me
 try-me: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, BuildID[sha1]=4cd78b5ac2bea87c2220e037a62f3bdfb3b11789, for GNU/Linux 3.2.0, stripped
 ```
 Ao tentarmos executá-lo: `./try-me` ou `sh try-me` não temos retorno.
