@@ -7,7 +7,7 @@ pass: [flag cyber1]
 ### Writeup:
 
 Neste desafio, ao tentarmos dar o comando "ls" verificamos que nao temos nenhum arquivo na pasta.
-Se verificarmos o "man" do "ls" podemos notar que temos a opcao "-a" que e usado para listar todos os arquivos (inclusive arquivos ocultos).
+Se verificarmos o `help` do `ls` com `ls --help`, podemos notar que temos a opção `-a` que é usada para listar todos os arquivos (inclusive arquivos ocultos).
 Utilizando `ls -a` ou `ls -la` podemos ver alguns arquivos do sistema como ".bash_logout", ".bash", ".profile", etc...
 Note que todos os arquivos se iniciam com `.`
 >Isso porque no Linux, para indicar que um arquivo deve ser oculto ao usuario usamos o ponto antes do nome.
