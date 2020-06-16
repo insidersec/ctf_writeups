@@ -1,6 +1,6 @@
 # Hardening
 
-Nossos métodos de Hardening do ambiente dos desafios de Infraestrutura [Cyber]
+Nossos métodos de Hardening do ambiente dos desafios de Infraestrutura [`Cyber`]
 
 
 [`custombashrc`]
