@@ -19,7 +19,6 @@
 
 
 ## Criadores dos desafios
----
 
 Web
 ---
