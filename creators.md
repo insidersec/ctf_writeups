@@ -1,13 +1,13 @@
 
 Web
 ---
-### Web1 - caramelo
+### Web1 - [caramelo](https://github.com/Mur0rum)
 
 ### Web3 - [infinitybuzz](https://github.com/omatron)
 
 ### Web4 - [infinitybuzz](https://github.com/omatron)
 
-### Web5 - d3let
+### Web5 - [d3let](https://github.com/GouveaHeitor)
 
 ### Web10 - [infinitybuzz](https://github.com/omatron)
 
@@ -21,27 +21,27 @@ Infraestrutura
 
 ### Cyber3 - [infinitybuzz](https://github.com/omatron)
 
-### Cyber4 - Shellt3r
+### Cyber4 - [Shellt3r](https://github.com/shellt3r)
 
-### Cyber5 - Horaddrim
+### Cyber5 - [Horaddrim](https://github.com/Horaddrim)
 
-### Cyber6 - Shellt3r
+### Cyber6 - [Shellt3r](https://github.com/shellt3r)
 
 ### Cyber7 - [infinitybuzz](https://github.com/omatron)
 
 Forense
 ---
-### MITM1 - Shellt3r
+### MITM1 - [Shellt3r](https://github.com/shellt3r)
 
-### MITM2 - Shellt3r
+### MITM2 - [Shellt3r](https://github.com/shellt3r)
 
 ### MITM3 - [infinitybuzz](https://github.com/omatron)
 
 ### OS1   - [infinitybuzz](https://github.com/omatron)
 
-### Steg1 - caramelo
+### Steg1 - [caramelo](https://github.com/Mur0rum)
 
-### Steg2 - caramelo
+### Steg2 - [caramelo](https://github.com/Mur0rum)
 
 ### Wireless1 - [infinitybuzz](https://github.com/omatron)
 
@@ -55,7 +55,7 @@ Recon
 
 Crypto
 ---
-### Crypto1 - d3let
+### Crypto1 - [d3let](https://github.com/GouveaHeitor)
 
 ### Crypto2 - Allvesz
 
