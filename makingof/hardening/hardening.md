@@ -48,3 +48,13 @@ linha12:
 >Aplica o permissionamento `050` no diretório `/home/$i`
 
 ---
+[`crontab`]
+
+O crontab do `root` pode ser acessado com `sudo crontab -e`
+
+```
+# m h  dom mon dow   command
+  0 * * * * touch /home/admin/cron_rodou     #Toca o arquivo /home/admin/cron_rodou atualizando o horário de alteração do arquivo para verificar se o cron rodou
+  0 * * * * rm -rf /tmp/*                    # apaga todo o conteúdo da pasta temporária /tmp a cada minuto 0, portanto a cada hora redonda 1:00, 2:00, 3:00...
+```
+recomendo o https://crontab.guru/#0_*_*_*_*
