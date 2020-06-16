@@ -7,7 +7,7 @@ pass: cyber0
 ### Writeup:
 
 Com o comando `ssh` podemos nos conectar a maquina do desafio.
-Cessamos a máquina com: 
+Acessamos a máquina com: 
 ```
 ssh ctf.insidersec.io -p 9090 -l cyber0
 ```
