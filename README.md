@@ -10,7 +10,7 @@
 
 - [ ] [Crypto](#crypto)
 - [ ] [Forense](#forense)
-- [x] [Infraestrutura](https://github.com/insidersec/ctf_writeups/tree/develop/Infraestrutura)Infraestrutura
+- [x] [Infraestrutura](https://github.com/insidersec/ctf_writeups/tree/develop/Infraestrutura)
 - [ ] [Recon](#recon)
 - [ ] [Trivia](#trivia)
 - [ ] [Web](#web)
