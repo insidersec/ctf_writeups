@@ -8,7 +8,7 @@
 
 ### Writeups finalizados:
 
-- [ ] Crypto
+- [ ] [Crypto](#crypto)
 - [ ] Forense
 - [x] Infraestrutura
 - [ ] Recon
