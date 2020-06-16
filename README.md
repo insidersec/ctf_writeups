@@ -9,13 +9,13 @@
 ### Writeups finalizados:
 
 - [ ] [Crypto](#crypto)
-- [ ] Forense
-- [x] Infraestrutura
-- [ ] Recon
-- [ ] Trivia
-- [ ] Web
+- [ ] [Forense](#forense)
+- [x] [Infraestrutura](https://github.com/insidersec/ctf_writeups/tree/develop/Infraestrutura)Infraestrutura
+- [ ] [Recon](#recon)
+- [ ] [Trivia](#trivia)
+- [ ] [Web](#web)
 
-- [x] Making Off
+- [x] [Making Off](https://github.com/insidersec/ctf_writeups/tree/develop/makingof)
 
 
 
