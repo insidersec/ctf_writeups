@@ -13,9 +13,9 @@ O problema é que não temos permissão de escrita no diretório que estamos, lo
 
 O diretório `/tmp` (temporário) é o único lugar no sistema onde por padrão temos permissão de escrita.
 
-Existem pelo menos dois métodos para fazer isso, o primeiro é uzar o comando `zcat` (usado para descompactar o arquivo e imprimir na tela).
+Existem pelo menos dois métodos para fazer isso, o primeiro é usar o comando `zcat` (usado para descompactar o arquivo e imprimir na tela).
 
-O outro, é usar o comando “unzip -d” e redirecionar o arquivo para alguma pasta que voce criar no diretorio temporario.
+O outro, é usar o comando `unzip -d` e redirecionar o arquivo para alguma pasta que voce tiver privilégio de escrita.
 
 >Em ambos os casos, apos descompactar o arquivo, encontramos uma string bem maior do que os desafios anteriores. Com um pouco de estudo sobre codificacao de dados, chegamos a conclusao de que a string esta em `base64`. Um bom site para ajudar nisso e o https://gchq.github.io/CyberChef/ onde voce pode testar diversos tipos de encoding.
 
