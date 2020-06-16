@@ -9,7 +9,7 @@ Nossos métodos de Hardening do ambiente dos desafios de Infraestrutura [Cyber]
 ### Arquivo .bashrc customizado
 
 linha 16:`#shopt -s histappend`
->Comentando o `#shopt -s histappend` garantimos que o history sempre sobrescreva e não acumule os históricos de sessão
+>Comentando o `shopt -s histappend` garantimos que o history sempre sobrescreva e não acumule os históricos de sessão
 
 linha 21: `#HISTFILE=`
 >Comentando o `HISTFILE` garantimos que o histórico da sessão não seja salvo, portanto o comando `history` não mostre os comandos executados pelos outros jogadores 
