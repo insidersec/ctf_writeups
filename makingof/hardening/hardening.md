@@ -6,7 +6,7 @@ Nossos métodos de Hardening do ambiente dos desafios de Infraestrutura [Cyber]
 [`custombashrc`]
 ---
 
->Arquivo .bashrc customizado
+### Arquivo .bashrc customizado
 
 linha 16:`#shopt -s histappend`
 >Comentando o `#shopt -s histappend` garantimos que o history sempre sobrescreva e não acumule os históricos de sessão
@@ -23,7 +23,7 @@ linha 117-126: Banner Insidersec
 [`setuserperm.sh`]
 ---
 
-Script executado para executar o hardening do servidor (precisa ser executado com `sudo`)
+### Script executado para executar o hardening do servidor (precisa ser executado com `sudo`)
 
 linha 4-5:
 >Executa um loop em todos usuários do sistema listados no `/etc/passwd` filtrando por `cyber` e cortando para retornar apenas o nome do usuário.
@@ -53,6 +53,8 @@ recomendo: [Permissions Calculator](http://permissions-calculator.org)
 
 [`crontab`]
 ---
+
+### Nossas tarefas agendadas
 
 O crontab do `root` pode ser acessado com `sudo crontab -e`
 
