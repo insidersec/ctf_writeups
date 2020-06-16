@@ -25,7 +25,7 @@ Ao passarmos o número `100` como parâmetro `./try-me 100`, obtemos a resposta 
 
 Notamos então que o valor está entre `2` e `100`.
 
-Podemos usar o loop `for` para testar as possibilidades:
+Podemos usar o loop `for` em um `Shell Script one-liner` (shell script de uma única linha que não precisa ser armazenado) para testar as possibilidades:
 
 `for i in {3..100}; do ./try-me $i; done`
 
