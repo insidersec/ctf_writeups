@@ -11,8 +11,11 @@ Listando `ls` os arquivos do diretorio encontramos um arquivo nomeado como `-` (
 Ao tentarmos usar o comando `cat` para ver seu conteudo nao obtemos resultado.
 >Isso acontece porque o `cat` tenta interpretar o nome do diretorio como um comando linux.
 >Quando temos um arquivo iniciado por caractere especial devemos especificar seu caminho completo.
-Usando o comando "pwd" (exibe o caminho do diretorio atual) podemos ver o nome do diretorio que estamos.
-No caso, /home/cyber1. Logo, podemos usar o comando:
+
+Usando o comando `pwd` (exibe o caminho do diretorio atual) podemos ver o nome do diretorio que estamos.
+No caso, `/home/cyber1`
+
+Logo, podemos usar o comando:
 ```
 cat /home/cyber1/-
 ```
