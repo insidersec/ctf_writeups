@@ -22,4 +22,4 @@ e obtemos a flag.
 
 ---
 
-[Voltar ao Menu Infraestrutura](https://github.com/insidersec/ctf_writeups/blob/master/Infraestrutura/infraestrutura.md)
+[Voltar ao Menu Infraestrutura](https://writeup.insidersec.io/infraestrutura)

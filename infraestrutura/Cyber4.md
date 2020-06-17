@@ -40,4 +40,4 @@ Em alguns instantes, temos a nossa flag (que esperamos que tenham descoberto de 
 
 ---
 
-[Voltar ao Menu Infraestrutura](https://github.com/insidersec/ctf_writeups/blob/master/Infraestrutura/infraestrutura.md)
+[Voltar ao Menu Infraestrutura](https://writeup.insidersec.io/infraestrutura)

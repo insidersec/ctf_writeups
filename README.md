@@ -13,7 +13,7 @@
 - [ ] [Trivia](#trivia)
 - [ ] [Web](#web)
 
-- [x] [Making Of](https://github.com/insidersec/ctf_writeups/blob/master/makingof/makingof.md)
+- [x] [Making Of](https://writeup.insidersec.io/makingof)
 
 
 
