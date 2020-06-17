@@ -18,12 +18,7 @@ Entramos com o seguinte informação para decodificação:
 ```
 ZQC_Fkjbqofzp_OLQ23
 ```
-Analisando as opções disponíveis na ferramenta, conseguimos fazer a decodificação com a opção "ROT3" e obtemos a seguinte transcrição:
-```
-CTF_Inmetrics_ROT23
-```
-
-A partir desses dados obtemos a informação para compor a flag **Inm{CTF_Inmetrics_ROT23}**.
+Analisando as opções disponíveis na ferramenta, conseguimos fazer a decodificação com a opção "ROT3" e obtemos a informação necessária para compor a flag.
 
 ---
 
