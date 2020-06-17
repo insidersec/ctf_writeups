@@ -26,4 +26,4 @@ Apartir desses dados obtemos a informação para compor a flag **Inm{Contratulat
 
 ---
 
-[Voltar ao Menu Infraestrutura](https://writeup.insidersec.io/infraestrutura)
+[Voltar ao Menu Crypto](https://writeup.insidersec.io/crypto)
