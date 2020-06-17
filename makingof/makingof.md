@@ -7,4 +7,4 @@ Essa seção é pra quem quer saber um pouco mais sobre a elaboração dos desaf
 
 ---
 
-[Voltar ao Menu Inicial](https://github.com/insidersec/ctf_writeups/README.md)
+[Voltar ao Menu Inicial](https://github.com/insidersec/ctf_writeups/blob/master/README.md)
