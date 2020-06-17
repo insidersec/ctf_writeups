@@ -37,3 +37,7 @@ Podemos assim, usar o comando `grep` para filtrar as respostas.
 `for i in {1..100}; do ./try-me $i; done |grep -Ev "Maior|Menor"`
 
 Em alguns instantes, temos a nossa flag (que esperamos que tenham descoberto de primeira :smirk:).
+
+---
+
+[Voltar ao Menu Infraestrutura](https://github.com/insidersec/ctf_writeups/blob/master/Infraestrutura/infraestrutura.md)

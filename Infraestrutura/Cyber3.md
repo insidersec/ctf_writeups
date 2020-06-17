@@ -28,3 +28,7 @@ mkdir /tmp/log
 unzip log.zip -d /tmp/log
 cat /tmp/log/log.txt | base64 -d
 ```
+
+---
+
+[Voltar ao Menu Infraestrutura](https://github.com/insidersec/ctf_writeups/blob/master/Infraestrutura/infraestrutura.md)

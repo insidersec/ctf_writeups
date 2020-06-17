@@ -19,3 +19,7 @@ Com o comando `cat` exibimos o conteúdo do arquivo
 cat flag.txt
 ```
 e obtemos a flag.
+
+---
+
+[Voltar ao Menu Infraestrutura](https://github.com/insidersec/ctf_writeups/blob/master/Infraestrutura/infraestrutura.md)

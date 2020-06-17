@@ -20,3 +20,7 @@ Ao pesquisarmos como podemos fazer um bruteforce em um arquivo ZIP, de cara, eco
 Intuitivamente, temos um arquivo oculto que possui diversas palavras. Esse arquivo é chamado de `Wordlist` ou `Dicionário` e usamos para efetuar um ataque de dicionário, que é uma modelidade de força bruta:
 
 `fcrackzip -D -p .rockyou.txt -u bruteforce-me`
+
+---
+
+[Voltar ao Menu Infraestrutura](https://github.com/insidersec/ctf_writeups/blob/master/Infraestrutura/infraestrutura.md)
