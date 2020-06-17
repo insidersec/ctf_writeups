@@ -8,7 +8,7 @@
 
 - [ ] [Crypto](#crypto)
 - [ ] [Forense](#forense)
-- [x] [Infraestrutura](insidersec.github.io/infraestrutura.md)
+- [x] [Infraestrutura](https://writeup.insidersec.io/infraestrutura)
 - [ ] [Recon](#recon)
 - [ ] [Trivia](#trivia)
 - [ ] [Web](#web)
