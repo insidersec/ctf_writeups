@@ -18,12 +18,7 @@ Entramos com o seguinte informação para decodificação:
 ```
 Q1RGX0lubWV0cmljc19CYXNlNjQ=
 ```
-Após decodificado, obtemos a seguinte transcrição:
-```
-CTF_Inmetrics_Base64
-```
-
-A partir desses dados obtemos a informação para compor a flag **Inm{CTF_Inmetrics_Base64}**.
+Após decodificado, obtemos a informação necessária para compor a flag.
 
 ---
 
