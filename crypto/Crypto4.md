@@ -1,29 +1,33 @@
-# Crypto1
+# Crypto4
 
 O desafio apresenta a seguinte descrição:
 
 ```
-"My mama called, seen you on TV, son "
+Essa hash de senha foi vazada na internet e é uma senha bem comum, você conseguiria quebrá-la?
 
-C G T A O
-O R U T N
-N A L I S
+21bd12dc183f740ee76f27b78eb39c8ad972a757
 ```
 
 ### Writeup:
 
-Ao efetuar uma busca pela frase apresentada no desafio, encotramos como resultado a música "Congratulations" do cantor Post Malone.
+Conforme orientado na descrição do desafio, essa é uma hash de senha.
 
-Ao lermos a seguinte transcrição em colunas, obtemos a palavra "Congratulations".
+Para sua decodificação pesquisamos por recursos online utilizando os termos como "hash decode". Nesse writeup utilizamos o site [MD5 Hashing](https://md5hashing.net/hash).
 
+Através dessa ferraemnta podemos identificar e decodificar a hash, para isso selecionamos a opção "Search by all hash types" no quadro "Hash reverse lookup, unhash, decrypt, search"
+
+Entramos com o seguinte informação para decodificação:
 ```
-C G T A O
-O R U T N
-N A L I S
+21bd12dc183f740ee76f27b78eb39c8ad972a757
+```
+Após o processamento, obtemos a seguinte transcrição:
+```
+Sha1 digest unhashed, decoded, decrypted, reversed value:
+P@ssw0rd
 ```
 
-Apartir desses dados obtemos a informação para compor a flag **Inm{Contratulations}**.
+A partir desses dados obtemos a informação para compor a flag **Inm{P@ssw0rd}**.
 
 ---
 
-[Voltar ao Menu Infraestrutura](https://writeup.insidersec.io/infraestrutura)
+[Voltar ao Menu Crypto](https://writeup.insidersec.io/crypto)
