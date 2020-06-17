@@ -3,7 +3,7 @@
 Nossos métodos de Hardening do ambiente dos desafios de Infraestrutura [`Cyber`]
 
 
-[`custombashrc`]
+[`custombashrc`](https://github.com/insidersec/ctf_writeups/blob/master/makingof/hardening/custombashrc)
 ---
 
 ### Arquivo .bashrc customizado
@@ -20,7 +20,7 @@ linha 22: umask 007
 linha 117-126: Banner Insidersec
 
 
-[`setuserperm.sh`]
+[`setuserperm.sh`](https://github.com/insidersec/ctf_writeups/blob/master/makingof/hardening/setuserperm.sh)
 ---
 
 ### Script executado para executar o hardening do servidor (precisa ser executado com `sudo`)
@@ -51,7 +51,7 @@ linha12:
 
 recomendo: [Permissions Calculator](http://permissions-calculator.org)
 
-[`crontab`]
+[`crontab`](https://github.com/insidersec/ctf_writeups/blob/master/makingof/hardening/crontab)
 ---
 
 ### Nossas tarefas agendadas
