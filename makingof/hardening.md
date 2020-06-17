@@ -68,4 +68,4 @@ recomendo:  [Crontab Guru](https://crontab.guru/#0_*_*_*_*)
 
 ---
 
-[Voltar ao Menu Inicial](https://github.com/insidersec/ctf_writeups/blob/master/README.md)
+[Voltar ao Menu Inicial](https://writeup.insidersec.io/)
