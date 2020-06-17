@@ -19,8 +19,8 @@
 
 # Criadores dos desafios
 
-Crypto
----
+## Crypto
+
 ### Crypto1 - [d3let](https://github.com/GouveaHeitor)
 
 ### Crypto2 - [Allvesz](https://github.com/allvesz)
@@ -29,8 +29,8 @@ Crypto
 
 ### Crypto4 - [infinitybuzz](https://github.com/omatron)
 
-Forense
----
+## Forense
+
 ### MITM1 - [Shellt3r](https://github.com/shellt3r)
 
 ### MITM2 - [Shellt3r](https://github.com/shellt3r)
@@ -47,8 +47,8 @@ Forense
 
 ### Wireless2 - [infinitybuzz](https://github.com/omatron)
 
-Infraestrutura
----
+## Infraestrutura
+
 ### Cyber0 - [infinitybuzz](https://github.com/omatron)
 
 ### Cyber1 - [infinitybuzz](https://github.com/omatron)
@@ -65,14 +65,13 @@ Infraestrutura
 
 ### Cyber7 - [infinitybuzz](https://github.com/omatron)
 
-Recon
----
+## Recon
+
 ### Recon1 - [infinitybuzz](https://github.com/omatron)
 
 ### Recon2 - [infinitybuzz](https://github.com/omatron)
 
-Trivia
----
+## Trivia
 
 ### Trivia1 - [infinitybuzz](https://github.com/omatron)
 
@@ -96,13 +95,13 @@ Trivia
 
 ### Trivia11 - [infinitybuzz](https://github.com/omatron)
 
-Tutorial
----
+## Tutorial
+
 ### Tutorial1 - [infinitybuzz](https://github.com/omatron)
  
 
-Web
----
+## Web
+
 ### Web1 - [caramelo](https://github.com/Mur0rum)
 
 ### Web3 - [infinitybuzz](https://github.com/omatron)
