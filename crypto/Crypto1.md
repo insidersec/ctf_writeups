@@ -3,7 +3,7 @@
 O desafio apresenta a seguinte descrição:
 
 ```
-"My mama called, seen you on TV, son "
+"My mama called, seen you on TV, son"
 
 C G T A O
 O R U T N
@@ -22,7 +22,7 @@ O R U T N
 N A L I S
 ```
 
-Apartir desses dados obtemos a informação para compor a flag **Inm{Contratulations}**.
+A partir desses dados obtemos a informação para compor a flag **Inm{Contratulations}**.
 
 ---
 
