@@ -23,7 +23,7 @@ Após decodificado, obtemos a seguinte transcrição:
 CTF_Inmetrics_Base64
 ```
 
-Apartir desses dados obtemos a informação para compor a flag **Inm{CTF_Inmetrics_Base64}**.
+A partir desses dados obtemos a informação para compor a flag **Inm{CTF_Inmetrics_Base64}**.
 
 ---
 
