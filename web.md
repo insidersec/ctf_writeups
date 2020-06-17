@@ -10,6 +10,8 @@
 
 ## Web5 - [Resolução](https://writeup.insidersec.io/web/web5)
  
+## Web10 - - [Resolução](https://writeup.insidersec.io/web/web10)
+
 ---
 
 [Voltar ao Menu Inicial](https://writeup.insidersec.io/)
