@@ -27,4 +27,4 @@ Apartir desses dados obtemos a informação para compor a flag **Inm{CTF_Inmetri
 
 ---
 
-[Voltar ao Menu Infraestrutura](https://writeup.insidersec.io/crypto)
+[Voltar ao Menu Crypto](https://writeup.insidersec.io/crypto)
