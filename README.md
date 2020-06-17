@@ -11,7 +11,7 @@
 - [x] [Infraestrutura](https://writeup.insidersec.io/infraestrutura)
 - [ ] [Recon](#recon)
 - [ ] [Trivia](#trivia)
-- [ ] [Web](#web)
+- [ ] [Web](https://writeup.insidersec.io/web)
 
 - [x] [Making Of](https://writeup.insidersec.io/makingof)
 
