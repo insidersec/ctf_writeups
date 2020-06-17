@@ -1,29 +1,30 @@
-# Crypto1
+# Crypto3
 
 O desafio apresenta a seguinte descrição:
 
 ```
-"My mama called, seen you on TV, son "
+É um procedimento simples mas eficaz para garantir que textos eletrônicos não sejam lidos por distração ou acidente.
 
-C G T A O
-O R U T N
-N A L I S
+ZQC_Fkjbqofzp_OLQ23
 ```
 
 ### Writeup:
 
-Ao efetuar uma busca pela frase apresentada no desafio, encotramos como resultado a música "Congratulations" do cantor Post Malone.
+Ao efetuar uma busca pela dica "procedimento simples mas eficaz para garantir que textos eletrônicos não sejam lidos por distração ou acidente", conseguimos uma orientação sobre decodificação ROT-13.
 
-Ao lermos a seguinte transcrição em colunas, obtemos a palavra "Congratulations".
+A decodificação pode ser feito através de recursos online pesquisando termos como "rot-13 decode". Nesse writeup utilizamos o site [Rot13](https://rot13.com/).
 
+Entramos com o seguinte informação para decodificação:
 ```
-C G T A O
-O R U T N
-N A L I S
+ZQC_Fkjbqofzp_OLQ23
+```
+Analisando as opções disponíveis na ferramenta, conseguimos fazer a decodificação com a opção "ROT3" e obtemos a seguinte transcrição:
+```
+CTF_Inmetrics_ROT23
 ```
 
-Apartir desses dados obtemos a informação para compor a flag **Inm{Contratulations}**.
+A partir desses dados obtemos a informação para compor a flag **Inm{CTF_Inmetrics_ROT23}**.
 
 ---
 
-[Voltar ao Menu Infraestrutura](https://writeup.insidersec.io/infraestrutura)
+[Voltar ao Menu Crypto](https://writeup.insidersec.io/crypto)
