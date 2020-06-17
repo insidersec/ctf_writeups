@@ -64,3 +64,8 @@ O crontab do `root` pode ser acessado com `sudo crontab -e`
   0 * * * * rm -rf /tmp/*                    # apaga todo o conteúdo da pasta temporária /tmp a cada minuto 0, portanto a cada hora redonda 1:00, 2:00, 3:00...
 ```
 recomendo:  [Crontab Guru](https://crontab.guru/#0_*_*_*_*)
+
+
+---
+
+[Voltar ao Menu Inicial](https://github.com/insidersec/ctf_writeups/README.md)
