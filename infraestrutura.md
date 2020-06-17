@@ -14,7 +14,7 @@
 
 ## Cyber6 - [Resolução](https://writeup.insidersec.io/infraestrutura/Cyber6)
 
-
+ 
 ---
 
 [Voltar ao Menu Inicial](https://writeup.insidersec.io/)
