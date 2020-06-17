@@ -6,7 +6,7 @@
   </p>
 </p>
 
-### Writeups finalizados:
+# Writeups finalizados:
 
 - [ ] [Crypto](#crypto)
 - [ ] [Forense](#forense)
