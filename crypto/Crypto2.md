@@ -1,29 +1,30 @@
-# Crypto1
+# Crypto2
 
 O desafio apresenta a seguinte descrição:
 
 ```
-"My mama called, seen you on TV, son "
+Este é um método utilizado frequentemente para transmitir dados binários por meios de transmissão que lidam apenas com texto, como por exemplo para enviar arquivos anexos por e-mail.
 
-C G T A O
-O R U T N
-N A L I S
+Q1RGX0lubWV0cmljc19CYXNlNjQ=
 ```
 
 ### Writeup:
 
-Ao efetuar uma busca pela frase apresentada no desafio, encotramos como resultado a música "Congratulations" do cantor Post Malone.
+Ao efetuar uma busca pela dica "método utilizado frequentemente para transmitir dados binários", conseguimos uma orientação sobre decodificação Base64.
 
-Ao lermos a seguinte transcrição em colunas, obtemos a palavra "Congratulations".
+A decodificação pode ser feito através de recursos online pesquisando termos como "decode base64". Nesse writeup utilizamos o site [Base64](https://www.base64decode.org/).
 
+Entramos com o seguinte informação para decodificação:
 ```
-C G T A O
-O R U T N
-N A L I S
+Q1RGX0lubWV0cmljc19CYXNlNjQ=
+```
+Após decodificado, obtemos a seguinte transcrição:
+```
+CTF_Inmetrics_Base64
 ```
 
-Apartir desses dados obtemos a informação para compor a flag **Inm{Contratulations}**.
+Apartir desses dados obtemos a informação para compor a flag **Inm{CTF_Inmetrics_Base64}**.
 
 ---
 
-[Voltar ao Menu Infraestrutura](https://writeup.insidersec.io/infraestrutura)
+[Voltar ao Menu Infraestrutura](https://writeup.insidersec.io/crypto)
