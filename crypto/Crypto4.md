@@ -20,13 +20,7 @@ Entramos com o seguinte informação para decodificação:
 ```
 21bd12dc183f740ee76f27b78eb39c8ad972a757
 ```
-Após o processamento, obtemos a seguinte transcrição:
-```
-Sha1 digest unhashed, decoded, decrypted, reversed value:
-P@ssw0rd
-```
-
-A partir desses dados obtemos a informação para compor a flag **Inm{P@ssw0rd}**.
+Após o processamento, obtemos a informação necessária para compor a flag.
 
 ---
 
