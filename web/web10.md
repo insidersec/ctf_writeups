@@ -10,7 +10,9 @@ Clicando no desafio **Web10**, não encontramos o link do desafio, porém temos 
 >Calma, ainda não.
 >Primeiro precisamos entender algumas coisas.
 
-- Com alguns conceitos de Segurança, nós começamos a pesquisar um pouco sobre [como a google acha as coisas](https://www.google.com/search/howsearchworks/crawling-indexing/).
+>Não a flag não é ~~Thayná Bitencourt~~
+
+- Vamos entender melhor o desafio, nós começamos a pesquisar um pouco sobre [como a google acha as coisas](https://www.google.com/search/howsearchworks/crawling-indexing/). 
 - Na pesquisa, descobrimos que o Google rasteja (`Crawl`) por toda a internet para construir seu `Index`.
 - Porém, nem tudo é indexado pelo Google, por isso a dica *"Vish, essa nem a Google acha."*
 1. Então digitando na URL `robots.txt` encontramos uma nova página.
