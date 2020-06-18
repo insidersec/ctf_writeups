@@ -12,7 +12,9 @@
       "profile": "https://github.com/omatron",
       "contributions": [
         "doc",
-        "code"
+        "code",
+        "maintenance",
+        "security"
       ]
     },
     {
