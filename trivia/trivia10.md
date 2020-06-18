@@ -12,3 +12,5 @@ Para resolver, é simples:
 21bd12dc183f740ee76f27b78eb39c8ad972a757 
 
 ![alt text](https://raw.githubusercontent.com/allvesz/ctf_writeups/master/img/trivia10-1.png)
+
+3. Então obtemos a Flag: Inm{SHA-1}
