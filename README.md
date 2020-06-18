@@ -17,7 +17,7 @@
 - [x] [Creators](https://writeup.insidersec.io/creators)
 
 
-## Contributors ✨
+## Contributors :computer:
 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
