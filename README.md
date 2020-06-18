@@ -6,7 +6,7 @@
 
 # Writeups finalizados:
 
-- [ ] [Crypto](#crypto)
+- [X] [Crypto](https://writeup.insidersec.io/crypto)
 - [ ] [Forense](#forense)
 - [x] [Infraestrutura](https://writeup.insidersec.io/infraestrutura)
 - [ ] [Recon](#recon)
