@@ -26,10 +26,13 @@ Abrindo numa nova aba
 ![alt text](https://raw.githubusercontent.com/insidersec/ctf_writeups/master/img/web4-4.png)
 
 
+![alt text](https://raw.githubusercontent.com/insidersec/ctf_writeups/master/img/web4-5.png)
+
+
 Corrigindo para https://desafio.insidersec.io/files/e9ef9f46d5b4be4d210b3b60c1707221/chicago.png
 
 
-![alt text](https://raw.githubusercontent.com/insidersec/ctf_writeups/master/img/web4-5.png)
+![alt text](https://raw.githubusercontent.com/insidersec/ctf_writeups/master/img/web4-6.png)
 
 ---
 
