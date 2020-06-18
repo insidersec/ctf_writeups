@@ -17,24 +17,39 @@
         "security"
       ]
     },
+        {
+      "login": "GouveaHeitor",
+      "name": "GouveaHeitor",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/10741284?v=4",
+      "profile": "https://heitorgouvea.me",
+      "contributions": [
+        "code"
+      ]
+    },
+     {
+      "login": "allvesz",
+      "name": "Augusto Alves",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/62436704?v=4",
+      "profile": "https://www.linkedin.com/in/augusto-alves/",
+      "contributions": [
+        "doc",
+        "code",
+        "review"
+      ]
+    },
     {
       "login": "notfounnd",
       "name": "Júnior Sbrissa",
       "avatar_url": "https://avatars3.githubusercontent.com/u/57534340?v=4",
       "profile": "https://www.linkedin.com/in/juniorsbrissa/",
       "contributions": [
-        "doc"
-      ]
-    },
-    {
-      "login": "allvesz",
-      "name": "Augusto Alves",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/62436704?v=4",
-      "profile": "https://github.com/allvesz",
-      "contributions": [
-        "doc"
+        "doc",
+        "review",
+        "code"
       ]
     }
+   
+
   ],
   "contributorsPerLine": 7,
   "projectName": "ctf_writeups",

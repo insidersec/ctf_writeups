@@ -1,12 +1,12 @@
 # Crypto
 
-## Crypto1 - [Resolução](https://writeup.insidersec.io/crypto/crypto1)
+## Crypto1 - [Resolução](https://writeup.insidersec.io/crypto/Crypto1)
 
-## Crypto2 - [Resolução](https://writeup.insidersec.io/crypto/crypto2)
+## Crypto2 - [Resolução](https://writeup.insidersec.io/crypto/Crypto2)
 
-## Crypto3 - [Resolução](https://writeup.insidersec.io/crypto/crypto3)
+## Crypto3 - [Resolução](https://writeup.insidersec.io/crypto/Crypto3)
 
-## Crypto4 - [Resolução](https://writeup.insidersec.io/crypto/crypto4)
+## Crypto4 - [Resolução](https://writeup.insidersec.io/crypto/Crypto4)
 
 ---
 

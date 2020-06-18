@@ -6,11 +6,11 @@
 
 # Writeups finalizados:
 
-- [X] [Crypto](https://writeup.insidersec.io/crypto)
+- [x] [Crypto](https://writeup.insidersec.io/crypto)
 - [ ] [Forense](#forense)
 - [x] [Infraestrutura](https://writeup.insidersec.io/infraestrutura)
-- [ ] [Recon](#recon)
-- [ ] [Trivia](#trivia)
+- [x] [Recon](https://writeup.insidersec.io/recon)
+- [x] [Trivia](https://writeup.insidersec.io/trivia)
 - [ ] [Web](https://writeup.insidersec.io/web)
 
 ---
@@ -30,6 +30,10 @@
     <td align="center"><a href="https://github.com/omatron"><img src="https://avatars0.githubusercontent.com/u/24454511?v=4" width="100px;" alt=""/><br /><sub><b>omatron</b></sub></a><br /><a href="https://github.com/insidersec/ctf_writeups/commits?author=omatron" title="Documentation">📖</a> <a href="https://github.com/insidersec/ctf_writeups/commits?author=omatron" title="Code">💻</a> <a href="#maintenance-omatron" title="Maintenance">🚧</a> <a href="#security-omatron" title="Security">🛡️</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/juniorsbrissa/"><img src="https://avatars3.githubusercontent.com/u/57534340?v=4" width="100px;" alt=""/><br /><sub><b>Júnior Sbrissa</b></sub></a><br /><a href="https://github.com/insidersec/ctf_writeups/commits?author=notfounnd" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/allvesz"><img src="https://avatars3.githubusercontent.com/u/62436704?v=4" width="100px;" alt=""/><br /><sub><b>Augusto Alves</b></sub></a><br /><a href="https://github.com/insidersec/ctf_writeups/commits?author=allvesz" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/omatron"><img src="https://avatars0.githubusercontent.com/u/24454511?v=4" width="100px;" alt=""/><br /><sub><b>omatron</b></sub></a><br /><a href="https://github.com/insidersec/ctf_writeups/commits?author=omatron" title="Documentation">📖</a> <a href="https://github.com/insidersec/ctf_writeups/commits?author=omatron" title="Challenge">💻</a></td>
+    <td align="center"><a href="https://heitorgouvea.me"><img src="https://avatars0.githubusercontent.com/u/10741284?v=4" width="100px;" alt=""/><br /><sub><b>GouveaHeitor</b></sub></a><br /><a href="https://github.com/insidersec/ctf_writeups/commits?author=GouveaHeitor" title="Challenge">💻</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/juniorsbrissa/"><img src="https://avatars3.githubusercontent.com/u/57534340?v=4" width="100px;" alt=""/><br /><sub><b>Júnior Sbrissa</b></sub></a><br /><a href="https://github.com/insidersec/ctf_writeups/commits?author=notfounnd" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/allvesz"><img src="https://avatars3.githubusercontent.com/u/62436704?v=4" width="100px;" alt=""/><br /><sub><b>Augusto Alves</b></sub></a><br /><a href="https://github.com/insidersec/ctf_writeups/commits?author=allvesz" title="Documentation">📖</a> <a href="https://github.com/insidersec/ctf_writeups/pulls?q=is%3Apr+reviewed-by%3Aallvesz" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/insidersec/ctf_writeups/commits?author=allvesz" title="Code">💻</a></td>
   </tr>
 </table>
 
