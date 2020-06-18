@@ -11,3 +11,5 @@ Para resolver, é simples:
 2. Ransomware que ficou famoso pela sua facilidade de propagação e quantidade de maquinas infectadas.
 
 ![alt text](https://raw.githubusercontent.com/allvesz/ctf_writeups/master/img/trivia1-2.png)
+
+3. Então obtemos a Flag: Inm{WannaCry}
