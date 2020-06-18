@@ -10,3 +10,5 @@ Para resolver, é simples:
 2. Como é chamado um teste de intrusão no qual não são fornecidas informações prévias sobre o alvo. 
 
 ![alt text](https://raw.githubusercontent.com/allvesz/ctf_writeups/master/img/trivia5-1.png)
+
+3. Então obtemos a Flag: Inm{Black-Box}
