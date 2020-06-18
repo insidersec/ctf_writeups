@@ -10,7 +10,7 @@
 - [ ] [Forense](#forense)
 - [x] [Infraestrutura](https://writeup.insidersec.io/infraestrutura)
 - [x] [Recon](https://writeup.insidersec.io/recon)
-- [ ] [Trivia](#trivia)
+- [x] [Trivia](https://writeup.insidersec.io/trivia)
 - [ ] [Web](https://writeup.insidersec.io/web)
 
 ---
