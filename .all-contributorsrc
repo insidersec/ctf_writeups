@@ -15,6 +15,25 @@
         "code"
       ]
     },
+        {
+      "login": "GouveaHeitor",
+      "name": "GouveaHeitor",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/10741284?v=4",
+      "profile": "https://heitorgouvea.me",
+      "contributions": [
+        "code"
+      ]
+    },
+     {
+      "login": "allvesz",
+      "name": "Augusto Alves",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/62436704?v=4",
+      "profile": "https://github.com/allvesz",
+      "contributions": [
+        "doc",
+        "code"
+      ]
+    },
     {
       "login": "notfounnd",
       "name": "Júnior Sbrissa",
@@ -23,25 +42,9 @@
       "contributions": [
         "doc"
       ]
-    },
-    {
-      "login": "allvesz",
-      "name": "Augusto Alves",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/62436704?v=4",
-      "profile": "https://github.com/allvesz",
-      "contributions": [
-        "doc"
-      ]
-    },
-    {
-      "login": "GouveaHeitor",
-      "name": "GouveaHeitor",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/10741284?v=4",
-      "profile": "https://heitorgouvea.me",
-      "contributions": [
-        "code"
-      ]
     }
+   
+
   ],
   "contributorsPerLine": 7,
   "projectName": "ctf_writeups",
