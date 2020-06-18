@@ -7,7 +7,7 @@
 # Writeups finalizados:
 
 - [x] [Crypto](https://writeup.insidersec.io/crypto)
-- [ ] [Forense](#forense)
+- [ ] [Forense](https://writeup.insidersec.io/forense)
 - [x] [Infraestrutura](https://writeup.insidersec.io/infraestrutura)
 - [x] [Recon](https://writeup.insidersec.io/recon)
 - [x] [Trivia](https://writeup.insidersec.io/trivia)
