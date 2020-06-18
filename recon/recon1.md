@@ -57,4 +57,3 @@ Baseado na pergunta, temos dois modos de resolver.
 
 [Voltar ao Menu Recon](https://writeup.insidersec.io/recon)
 
-

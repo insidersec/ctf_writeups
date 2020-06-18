@@ -50,3 +50,7 @@ Para resolver, vamos utilizar um programa chamado NMAP.
 2. Utilizando o Shell, digite o comando nmap inmetrics.com.br
 
 ![alt text](https://raw.githubusercontent.com/allvesz/ctf_writeups/master/img/recon2-1.png)
+
+---
+
+[Voltar ao Menu Recon](https://writeup.insidersec.io/recon)
