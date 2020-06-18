@@ -12,9 +12,7 @@ Ora Ora! Parece que temos um Xeroque Rolmes aqui!
 
 Para iniciar a resolução desse writeup, efetuamos uma busca para descobrir o que é um arquivo do tipo ".dmp".
 
-```
-"Um arquivo DMP é um arquivo que contém dados "despejados" do espaço de memória de um programa. Muitas vezes, é criado quando um programa tem um erro ou falha e também pode ser salvo pelo programa "Savedump.exe" na primeira reinicialização após uma falha. Arquivos DMP são geralmente chamados de "Memory. dmp"."
-```
+> "Um arquivo DMP é um arquivo que contém dados "despejados" do espaço de memória de um programa. Muitas vezes, é criado quando um programa tem um erro ou falha e também pode ser salvo pelo programa "Savedump.exe" na primeira reinicialização após uma falha. Arquivos DMP são geralmente chamados de "Memory. dmp"." // Fonte: [FileMemo](https://filememo.info/extension/dmp)
 
 Ao efetuar uma pesquisa sobre como ler os dados contidos nesse tipo de arquivo, encontramos bastante conteúdo referenciando técnicas e maneiras para gerar e ler as informações de um arquivo dump. Nesse writeup utilizamos a ferramenta [Pypykatz](https://github.com/skelsec/pypykatz) seguindo orientações dispostas no site [Hackndo](https://en.hackndo.com/remote-lsass-dump-passwords/#linux--windows).
 
