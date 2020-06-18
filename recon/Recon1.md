@@ -1,6 +1,6 @@
 # Recon1
 
-## Resolução 1 @notfounnd
+## Resolução 1 [@notfounnd](https://github.com/notfounnd)
 O desafio apresenta a seguinte descrição:
 
 ```
@@ -34,7 +34,7 @@ Com essa informação, buscamos uma ferramenta online que verifica o protocolo W
 Exemplo:
 > expires: AAAAMMDD
 ```
-## Resolução 2 @allvesz
+## Resolução 2 [@allvesz](https://github.com/allvesz)
 
 Após consultar os dados do site "inmetrics.com.br" na ferramenta, obtemos a informação necessária para compor a flag.
 
