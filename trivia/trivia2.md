@@ -10,3 +10,5 @@ Para resolver, é simples:
 2. Qual o nome da vulnerabilidade de segurança OpenSSL divulgada publicamente em Abril de 2014?
 
 ![alt text](https://raw.githubusercontent.com/allvesz/ctf_writeups/master/img/trivia2-1.png)
+
+3. Então obtemos a Flag: Inm{Heartbleed}
