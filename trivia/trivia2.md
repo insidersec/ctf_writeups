@@ -1,5 +1,6 @@
 # Trivia2
 Acessando o desafio, nos deparamos com a pergunta abaixo:
+
 ![alt text](https://raw.githubusercontent.com/allvesz/ctf_writeups/master/img/trivia2.png)
 
 Para resolver, é simples:
