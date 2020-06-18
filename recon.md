@@ -1,8 +1,8 @@
 # Recon
 
-## Recon1 - [Resolução](https://writeup.insidersec.io/recon/Recon1)
+## Recon1 - [Resolução](https://writeup.insidersec.io/recon/recon1)
 
-## Recon2 - [Resolução](https://writeup.insidersec.io/recon/Recon2)
+## Recon2 - [Resolução](https://writeup.insidersec.io/recon/recon2)
 
 ---
 
