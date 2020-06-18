@@ -21,3 +21,7 @@ Clicando no desafio **Web10**, não encontramos o link do desafio, porém temos 
 4. Percebemos que tem uma função escondida quando tentamos clicar ou copiar o "Whyyyyyyyyyyyyy??????"
 ![alt text](https://raw.githubusercontent.com/insidersec/ctf_writeups/master/img/web10-1.png)
 5. E quando clicamos, aparece um alerta com a flag.
+
+---
+
+[Voltar ao Menu Web](https://writeup.insidersec.io/web)

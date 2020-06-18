@@ -8,3 +8,7 @@ Então vamos analisar o código novamente.
 2. Analisando o código, percebemos o comentário abaixo.
 ![alt text](https://raw.githubusercontent.com/insidersec/ctf_writeups/master/img/web1.png)
 3. Digitando os dados encontrados na url, e analisando a imagem, obtemos a flag.
+
+---
+
+[Voltar ao Menu Web](https://writeup.insidersec.io/web)
