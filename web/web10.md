@@ -10,7 +10,7 @@ Clicando no desafio **Web10**, não encontramos o link do desafio, porém temos 
 >Calma, ainda não.
 >Primeiro precisamos entender algumas coisas.
 
->Não a flag não é ~~Thayná Bitencourt~~
+>Não, a flag não é ~~Thayná Bitencourt~~ 😒
 
 - Vamos entender melhor o desafio, nós começamos a pesquisar um pouco sobre [como a google acha as coisas](https://www.google.com/search/howsearchworks/crawling-indexing/). 
 - Na pesquisa, descobrimos que o Google rasteja (`Crawl`) por toda a internet para construir seu `Index`.
