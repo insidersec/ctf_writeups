@@ -9,7 +9,7 @@
 - [x] [Crypto](https://writeup.insidersec.io/crypto)
 - [ ] [Forense](#forense)
 - [x] [Infraestrutura](https://writeup.insidersec.io/infraestrutura)
-- [x] [Recon](#recon)
+- [x] [Recon](https://writeup.insidersec.io/recon)
 - [ ] [Trivia](#trivia)
 - [ ] [Web](https://writeup.insidersec.io/web)
 
