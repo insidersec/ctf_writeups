@@ -21,6 +21,7 @@
 ## Trivia10 - [Resolução](https://writeup.insidersec.io/trivia/trivia10)
 
 ## Trivia11 - [Resolução](https://writeup.insidersec.io/trivia/trivia11)
+
 ---
 
 [Voltar ao Menu Inicial](https://writeup.insidersec.io/)
