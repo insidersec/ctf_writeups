@@ -10,3 +10,5 @@ Para resolver, é simples:
 2. Qual o exploit que o grupo TSB (The Shadow Brokers) vazou publicamente afetando milhões de máquinas Windows no mundo todo?
 
 ![alt text](https://raw.githubusercontent.com/allvesz/ctf_writeups/master/img/trivia3-1.png)
+
+Então obtemos a Flag: Inm{EternalBlue}

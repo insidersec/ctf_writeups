@@ -10,3 +10,5 @@ Para resolver, é simples:
 2. Qual o tempo de vida de um pacote TCP no Windows 10? 
 
 ![alt text](https://raw.githubusercontent.com/allvesz/ctf_writeups/master/img/trivia6-1.png)
+
+3. Então obtemos a Flag: Inm{128}

@@ -10,3 +10,5 @@ Para resolver, é simples:
 2. Em qual camada do modelo Open System Interconnection (OSI) ocorre a Transport Layer Security? 
 
 ![alt text](https://raw.githubusercontent.com/allvesz/ctf_writeups/master/img/trivia7-1.png)
+
+3. Então obtemos a Flag: Inm{Apresentação}
