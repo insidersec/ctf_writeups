@@ -8,8 +8,6 @@ Há uma mensagem na garrafa. Consegue encontrar?
 > ilogo.jpg (Arquivo para download)
 ```
 
-### Writeup:
-
 ## Resolução 1 [@Mur0rum](https://github.com/Mur0rum)
 
 ## Info
