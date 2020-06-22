@@ -13,3 +13,7 @@ Então para podermos olhar o especificamente o código, temos dois jeitos:
 Agora só é preciso olhar o código para encontrar a flag.
 
 ![alt text](https://raw.githubusercontent.com/insidersec/ctf_writeups/master/img/web0.png)
+
+---
+
+[Voltar ao Menu Web](https://writeup.insidersec.io/web)

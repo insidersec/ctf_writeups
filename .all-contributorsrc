@@ -12,7 +12,30 @@
       "profile": "https://github.com/omatron",
       "contributions": [
         "doc",
+        "code",
+        "maintenance",
+        "security"
+      ]
+    },
+    {
+      "login": "GouveaHeitor",
+      "name": "GouveaHeitor",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/10741284?v=4",
+      "profile": "https://heitorgouvea.me",
+      "contributions": [
+        "doc",
         "code"
+      ]
+    },
+    {
+      "login": "allvesz",
+      "name": "Augusto Alves",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/62436704?v=4",
+      "profile": "https://www.linkedin.com/in/augusto-alves/",
+      "contributions": [
+        "doc",
+        "code",
+        "review"
       ]
     },
     {
@@ -21,23 +44,16 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/57534340?v=4",
       "profile": "https://www.linkedin.com/in/juniorsbrissa/",
       "contributions": [
-        "doc"
+        "doc",
+        "review",
+        "code"
       ]
     },
     {
-      "login": "allvesz",
-      "name": "Augusto Alves",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/62436704?v=4",
-      "profile": "https://github.com/allvesz",
-      "contributions": [
-        "doc"
-      ]
-    },
-    {
-      "login": "GouveaHeitor",
-      "name": "GouveaHeitor",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/10741284?v=4",
-      "profile": "https://heitorgouvea.me",
+      "login": "Mur0rum",
+      "name": "Mur0rum",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/21301873?v=4",
+      "profile": "https://github.com/Mur0rum",
       "contributions": [
         "code",
         "doc"
