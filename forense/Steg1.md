@@ -52,7 +52,7 @@ string_de_texto
 
 ---
 
-## Resolução 2 [@Mur0rum](https://github.com/Mur0rum)
+## Resolução 2 [@notfounnd](https://github.com/notfounnd)
 
 O desafio apresenta a seguinte descrição:
 ```
