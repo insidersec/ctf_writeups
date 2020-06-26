@@ -6,6 +6,8 @@
 
 ## Steg2 - [Resolução](https://writeup.insidersec.io/forense/Steg2)
 
+## Wireless1 - [Resolução](https://writeup.insidersec.io/forense/Wireless1)
+
 ---
 
 [Voltar ao Menu Inicial](https://writeup.insidersec.io/)
